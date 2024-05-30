@@ -1,0 +1,159 @@
+
+.first{
+    padding: 30px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.first div h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.first div span{
+    font-size: 17px;
+    color: gray;
+}
+
+.second{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    padding: 12px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.arrows{
+   
+    display: flex;
+    gap: 55px;
+}
+.arrows img:hover{
+   
+    cursor: pointer;
+}
+.second .info p {
+color: gray;
+}
+.second .info p span{
+    color: black;
+}
+.buttons{
+    gap: 20px;
+    align-items: center;
+    display: flex;
+    padding: 20px 0px;
+}
+.buttons button{
+    padding: 14px 35px;
+    background-color: #3AA39F;
+    color: white;
+    border: none;
+    border-radius: 4px;
+
+}
+.add{
+    border: 1px solid grey;
+    padding: 5px 20px;
+    font-size: 28px;
+    border-radius: 4px;
+    display: flex;
+    gap: 30px;
+}
+
+.socialMedia{
+    margin-left: 80px;
+    gap: 20px;
+    display: flex;
+}
+.socialMedia img{
+width: 22px;
+}
+.heart{
+    display: flex;
+}
+.heart p{
+    color: #3AA39F;
+    padding-left: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.last{
+    gap: 50px;
+    align-items: center;
+    display: flex;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.leftSide{
+    width: 500px;
+}
+.stars{
+    padding: 20px 0px;
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.star{
+    display: flex;
+    align-items: center;
+
+}
+.star p{
+    display: flex;
+margin-left: 10px;
+margin-bottom: 20px;
+}
+
+.star p span{
+    color: gray;
+    margin-left: 5px;
+}
+.data{
+    padding: 20px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 495px;
+    line-height: 25px;
+    color: rgb(93, 91, 91);
+    margin-bottom: 20px;
+}
+.colors img{
+    width: 30px;
+
+}
+.colors{
+    padding: 25px 0px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 25px;
+}
+.desc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    padding: 20px 0px;
+    margin-bottom: 30px;
+}
+
+.twoSides{
+    display: flex;
+}
+
+.rightSide{
+    width: 600px;
+}
+
+.options{
+    display: flex;
+    gap: 30px;
+    margin-top: -90px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+
+.options img{
+    border: solid 2px gray;
+    border-radius: 5px;
+}
+
+
+
+

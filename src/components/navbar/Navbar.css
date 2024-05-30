@@ -1,0 +1,66 @@
+ul a{
+    text-decoration: none;
+    color: black;
+}
+.links{
+    display: flex;
+    gap: 20px;
+}
+nav{
+  
+    border-bottom: solid 1px gray;
+}
+nav .container{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.icons{
+    align-items: center;
+    display: flex;
+    gap: 20px;
+}
+.cart{
+    padding: 18px 20px;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

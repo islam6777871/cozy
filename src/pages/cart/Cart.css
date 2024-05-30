@@ -1,0 +1,118 @@
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.headline{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.headline h4{
+    color: gray;
+}
+
+.add{
+    border: 1px solid grey;
+    padding: 5px 20px;
+    font-size: 28px;
+    border-radius: 4px;
+    display: flex;
+    gap: 30px;
+    width: 160px;
+}
+
+.shop{
+    border-bottom: solid 1px gray;
+    width: 700px;
+    display: flex;
+    margin-top: 50px;
+}
+.title{
+    display: flex;
+    align-items: center;
+    width: 540px;
+    justify-content: space-between;
+}
+
+.color{
+    display: flex;
+    padding: 15px 0px;
+    gap: 12px;
+}
+.color span{
+color: gray;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.btn span{
+    color: red;
+}
+
+.cheque{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    border: solid 1px gray;
+    width: 420px;
+    padding: 18px;
+}
+.cheque form{
+    position: relative;
+}
+.cheque input{
+    
+    padding: 15px 110px;
+}
+.code{
+    right: 20px;
+    top: 10px;
+    width: 30px;
+    position: absolute;
+}
+.cheque div{
+   
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.twoParts{
+    gap: 70px;
+    display: flex;
+}
+
+.check{
+    background-color: #3AA39F;
+    padding: 15px 110px;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+.check:hover{
+    background-color: #197a77;
+}
+
+.discount{
+    display: flex;
+    gap: 12px;
+    border: solid 1px #3AA39F;
+    margin-top: 50px;
+    padding: 18px 0px;
+    background-color: #3aa39f2f;
+}
+
+
+
+
+
+
+
+
+
