@@ -56,6 +56,9 @@ color: gray;
     display: flex;
     gap: 30px;
 }
+.add p{
+    cursor: pointer;
+}
 
 .socialMedia{
     margin-left: 80px;
@@ -145,15 +148,32 @@ margin-bottom: 20px;
     display: flex;
     gap: 30px;
     margin-top: -90px;
-    margin-left: 150px;
+    margin-left: 100px;
     margin-bottom: 50px;
 }
 
 .options img{
     border: solid 2px gray;
     border-radius: 5px;
+    width: 95px;
+    height: 95px;
+    object-fit: cover;
+}
+.colors span{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
 }
 
-
-
-
+.dark{
+    border: 4px solid black ;
+}
+.heroImg{
+    margin-left: 90px;
+    margin-bottom: 100px;
+    width: 500px;
+    border-radius: 20px;
+    height: 500px;
+    object-fit: cover;
+}
